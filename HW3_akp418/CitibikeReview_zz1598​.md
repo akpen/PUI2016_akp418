@@ -37,7 +37,7 @@ The average trip duration of subscribers is higher than the average trip duratio
 
 *proposed significance level*: 
 
-**$\alpha$ = 0.05**
+**alpha = 0.05**
 
 For the proposed *NULL* and *ALTERNATIVE*  hypotheses, the CitiBike dataset collected would be able to perform the hypothesis test.
 
