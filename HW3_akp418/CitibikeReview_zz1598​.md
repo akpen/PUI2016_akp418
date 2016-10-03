@@ -37,8 +37,7 @@ The average trip duration of subscribers is higher than the average trip duratio
 
 *proposed significance level*: 
 
-**$\alpha$=0.05**
-
+**$\alpha$ = 0.05**
 
 For the proposed *NULL* and *ALTERNATIVE*  hypotheses, the CitiBike dataset collected would be able to perform the hypothesis test.
 
@@ -74,4 +73,4 @@ Based on the output of Akshay's data collection process followed by plotting, I 
 
    *The average trip duration on the weekends over the weekdays of the citi bike subscribers is equal or smaller than that of the usual customers(nonsubscribers).*
 
-   ​
+ 
