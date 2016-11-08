@@ -14,4 +14,4 @@ The addition to the plot that could be needed to make it more intuitive would be
 
 Overall, I think it is a great plot and it represents the data very well.
 
-![](peer_review_xd515.md)
+![](Plot_image_xd515.PNG)
